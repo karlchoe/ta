@@ -1,3 +1,3 @@
-* github ¿¬½À
+ï»¿* github ì—°ìŠµ
 * hello git
 * hello world
